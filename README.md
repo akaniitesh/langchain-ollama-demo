@@ -168,16 +168,9 @@ http://localhost:8501
 
 ---
 
-## Future Improvements
+<img width="1876" height="865" alt="image" src="https://github.com/user-attachments/assets/fe1d239c-959b-4f98-ad9e-1586605eef15" />
 
-- Chat History
-- Conversation Memory
-- RAG with Vector Database
-- PDF Question Answering
-- Multiple Local Models
-- Streaming Responses
 
----
 
 ## Author
 
