@@ -1,0 +1,14 @@
+# LLM Framework
+langchain
+langchain-community
+langchain-core
+
+# UI
+streamlit
+
+# Environment Variables
+python-dotenv
+
+# Ollama Integration
+ollama
+langchain-ollama
